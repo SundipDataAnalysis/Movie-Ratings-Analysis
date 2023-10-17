@@ -1,5 +1,6 @@
 # Movie-Ratings-Analysis
 ##### All queries were made using Microsoft SQL Server Management Studio, and the resulting Movies Ratings data visualisation file is a culmination of queries from the data used to visualise the data using Tableau Public. The results from SQL were copied into Excel, then later added as a data source in Tableau. 
+##### A link to the dashboard can be found here: https://public.tableau.com/views/MovieRatingsanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 #### An analysis of the top 1000 IMDB movies, exploring the correlation between factors such as runtime, rating, gross and number of votes received. Upon analysis, there is a general trend that the higher the rating, the greater the number of votes received. However, the correlation between runtime and IMDB rating is less obvious, as some films are much shorter in length and are still rated very highly by IMDB users.
 
